@@ -11,9 +11,7 @@ You need npm and git installed on your system. Click [here](https://www.npmjs.co
 ## Features
 
 - [TypeScript](https://www.typescriptlang.org/)
-
 - CSS support via [css-loader](https://github.com/webpack-contrib/css-loader)
-
 - [Prettier](https://prettier.io/)
 
 ## Get started
