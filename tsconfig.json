@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "target": "es5",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["src"],
+  "compileOnSave": false
+}
